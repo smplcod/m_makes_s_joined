@@ -11,3 +11,4 @@ def function():
 
 
 function()
+print('jopa')
